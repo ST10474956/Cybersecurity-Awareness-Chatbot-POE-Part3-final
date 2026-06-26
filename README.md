@@ -133,7 +133,3 @@ Final Integrated Chatbot
 * Cloud database
 * Email reminders
 * User login system
-
-# Author
-
-YOUR NAME

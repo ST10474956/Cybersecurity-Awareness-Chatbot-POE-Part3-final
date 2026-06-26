@@ -133,3 +133,5 @@ Final Integrated Chatbot
 * Cloud database
 * Email reminders
 * User login system
+
+Malose Kamogelo Matjiu

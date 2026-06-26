@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DduYN7BZYfM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\OneDrive - ADvTECH Ltd\\Documents\\source\\repo\\CybersecurityChatbot\\CybersecurityChatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.speech\\10.0.8\\system.speech.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

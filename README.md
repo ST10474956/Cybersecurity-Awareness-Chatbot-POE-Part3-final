@@ -100,6 +100,8 @@ reminderDate DATETIME,
 isCompleted BOOLEAN
 );
 
+Youtube:
+[https://youtu.be/oMB0rTcTLu4](https://youtu.be/oMB0rTcTLu4)
 
 # Running the Project
 
